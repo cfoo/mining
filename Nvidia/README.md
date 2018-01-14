@@ -4,8 +4,8 @@
 
 ``` shell
 Power Limit 80
-Core Clock -15
-Memory Clock +805
+Core Clock -25
+Memory Clock +810
 ```
 
 1 x GPU ~40Mh/s
