@@ -3,12 +3,12 @@
 ### P104-100 4GB
 
 ``` shell
-Power Limit 80
-Core Clock -25
-Memory Clock +810
+Power Limit 85
+Core Clock -20
+Memory Clock +820
 ```
 
-1 x GPU ~40Mh/s
+1 x GPU ~41Mh/s
 
 Average Temp: ~63C
 
