@@ -5,14 +5,14 @@
 ``` shell
 Power Limit 85
 Core Clock -20
-Memory Clock +820
+Memory Clock +815
 ```
 
 1 x GPU ~41Mh/s
 
 Average Temp: ~63C
 
-GPU Power: ~108W
+GPU Power: ~118W
 
 ![Ether](https://github.com/cfoo/mining/raw/master/Nvidia/p104_ether.png "Ether")
 
